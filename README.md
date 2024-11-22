@@ -30,7 +30,7 @@ This API is built using Node.js and Express.js. It provides endpoints for managi
 
 3. Start the server:
    ```bash
-   node <filename>.js
+   node server.js
    ```
 
 4. The server will run on `http://localhost:4000` by default.
