@@ -20,25 +20,20 @@ This API is built using Node.js and Express.js. It provides endpoints for managi
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/le0nardomartins/GS-Back
    ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd <project_directory>
-   ```
-
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-4. Start the server:
+3. Start the server:
    ```bash
    node <filename>.js
    ```
 
-5. The server will run on `http://localhost:4000` by default.
+4. The server will run on `http://localhost:4000` by default.
 
 ---
 
